@@ -16,10 +16,10 @@ The project was developed and tested using the following environment:
 |---|---|---|
 | AR Platform | Meta Quest 3 | Standalone video see-through headset |
 | Game Engine | Unity 6000.3.2f1 | Android build support required |
-| AR Framework | Meta XR SDK [VERSION] | Passthrough Camera API and Interaction SDK |
-| Computer Vision | OpenCV for Unity [VERSION] | Paid Unity Asset Store package, not included in this repository |
+| AR Framework | Meta XR SDK | Passthrough Camera API and Interaction SDK |
+| Computer Vision | OpenCV for Unity | Paid Unity Asset Store package, not included in this repository |
 | Language | C# / Python | AR application / 3D Slicer module |
-| 3D Slicer | [VERSION] or above | With SlicerIGT and SlicerOpenIGTLink extensions (validation only) |
+| 3D Slicer | 5.8.1 or above | With SlicerIGT and SlicerOpenIGTLink extensions (validation only) |
 
 ## 📄 Scientific Publication and Citation
 
@@ -51,14 +51,10 @@ The repository is organized as follows:
 
 For any questions or inquiries regarding the project, please contact the author or the leader of the IGT research group, from Departamento de Bioingeniería, Universidad Carlos III de Madrid (UC3M):
 
-Lucía Cabello Martín (Author): [EMAIL]
-
 Javier Pascau (Senior Author): jpascau@ing.uc3m.es
 
 For more information about the research group, feel free to have a look at our website: https://igt.uc3m.es/.
 
 ## 🙏 Acknowledgements
-
-[FUNDING PENDING]
 
 The ArUco detection pipeline is based on [TakashiYoshinaga/QuestArUcoMarkerTracking](https://github.com/TakashiYoshinaga/QuestArUcoMarkerTracking).
